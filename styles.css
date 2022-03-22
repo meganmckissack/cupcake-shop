@@ -1,16 +1,19 @@
 .par1 {
+  display: flex;
   color: red;
 }
 
 .par2 {
+  display: flex;
   color: blue;
 }
 
 img {
-  width: 40%;
-}
-
-img {
+  float: left;
+  width: 350px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  display: block;
   -webkit-box-shadow: 10px 10px 5px 0px rgba(250, 30, 250, 1);
   -moz-box-shadow: 10px 10px 5px 0px rgba(250, 30, 250, 1);
   box-shadow: 10px 10px 5px 0px rgba(250, 30, 250, 1);
