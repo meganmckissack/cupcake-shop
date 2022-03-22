@@ -10,8 +10,14 @@ img {
   width: 40%;
 }
 
-img.best {
+img {
   -webkit-box-shadow: 10px 10px 5px 0px rgba(250, 30, 250, 1);
   -moz-box-shadow: 10px 10px 5px 0px rgba(250, 30, 250, 1);
   box-shadow: 10px 10px 5px 0px rgba(250, 30, 250, 1);
+}
+
+nav li {
+  list-style: none;
+  display: inline-block;
+  padding: 5px;
 }
