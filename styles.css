@@ -1,0 +1,14 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+img {
+  width: 40%;
+}
+
+img.best {
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(250, 30, 250, 1);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(250, 30, 250, 1);
+  box-shadow: 10px 10px 5px 0px rgba(250, 30, 250, 1);
+}
