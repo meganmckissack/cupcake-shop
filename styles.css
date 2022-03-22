@@ -1,6 +1,9 @@
-.flashy {
+.par1 {
   color: red;
-  font-style: italic;
+}
+
+.par2 {
+  color: blue;
 }
 
 img {
